@@ -1,0 +1,66 @@
+#outer{
+    border: 2px solid black;
+    border-radius: 20px;
+    width:50% ;
+    height: 500px;
+    align-self: center;
+    margin: 0px auto;
+    background-color: rgba(123, 148, 140, 0);
+    box-shadow: 0px 0px 16.0px 10px hsl(283, 58%, 40%);
+}
+    
+    
+
+#heading{text-align: center;}
+#error{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    
+}
+#form{text-align: center;}
+#cloud{height: 50px;
+width: 50px;
+
+position: relative;
+top: 20px;}
+#speed{
+    height: 50px;
+width: 50px;
+    
+    position: relative;
+    top: 20px;}
+    #pressure{
+        height: 50px;
+    width: 50px;
+        
+        position: relative;
+        top: 20px;}
+
+#show{color: white;
+background-color: rgba(123, 148, 140, 0);
+display: flex;
+justify-content: space-evenly;
+border-radius: 20px;}
+#humid{display: inline;}
+#wind{display: inline;}
+#rain{display: inline;}
+#tempshow{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+#city{color: white;}
+
+
+#input{border-radius: 20px;
+width: 200px;
+height: 30px;
+text-align: center;
+}
+.icons{width: 120px;
+height: 120px;
+}
+#cont{text-align: center;}
